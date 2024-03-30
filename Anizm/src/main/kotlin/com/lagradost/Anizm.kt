@@ -22,7 +22,6 @@ class Anizm : MainAPI() {
         TvType.AnimeMovie,
         TvType.OVA
     )
-
     companion object {
         private const val mainServer = "https://anizmplayer.com"
     }
