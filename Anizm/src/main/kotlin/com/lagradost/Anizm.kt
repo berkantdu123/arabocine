@@ -31,6 +31,7 @@ class Anizm : MainAPI() {
         "$mainUrl/anime-izle?sayfa=" to "Son Eklenen Animeler",
     )
 
+    
     override suspend fun getMainPage(
         page: Int,
         request: MainPageRequest
