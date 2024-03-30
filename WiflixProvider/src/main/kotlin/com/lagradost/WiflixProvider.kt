@@ -12,7 +12,7 @@ import kotlin.collections.ArrayList
 class WiflixProvider : MainAPI() {
 
 
-    override var mainUrl = "https://wiiflix.beauty"
+    override var mainUrl = "https://wiflix.cloud"
     override var name = "Wiflix"
     override val hasQuickSearch = false // recherche rapide (optionel, pas vraimet utile)
     override val hasMainPage = true // page d'accueil (optionel mais encoragé)
